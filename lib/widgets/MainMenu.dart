@@ -51,9 +51,9 @@ class MainMenu extends StatelessWidget {
                   style: ElevatedButton.styleFrom(
                     backgroundColor: whiteTextColor,
                   ),
-                  child: const Text(
-                    'Play',
-                    style: TextStyle(
+                  child: const Text( //
+                    'Play', //
+                    style: TextStyle( //
                       fontSize: 40.0,
                       color: blackTextColor,
                     ),
