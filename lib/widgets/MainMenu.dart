@@ -53,7 +53,7 @@ class MainMenu extends StatelessWidget {
                   ),
                   child: const Text( //
                     'Play', //
-                    style: TextStyle( //
+                    style: TextStyle( //  
                       fontSize: 40.0,
                       color: blackTextColor,
                     ),
