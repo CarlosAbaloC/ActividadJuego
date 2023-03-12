@@ -1,16 +1,15 @@
+Título e imagen de portada;
 # juego_actividad
 
-A new Flutter project.
 
-## Getting Started
+Descripción del Proyecto;
+Proyecto de practica para iniciarse en el motor de juegos flutterflame asi como en el propio flutter
 
-This project is a starting point for a Flutter application.
+Estado del proyecto;
+El proyecto aun esta en construccion
 
-A few resources to get you started if this is your first Flutter project:
+Tecnologia:
+FlutterFlame
+Dart
+Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
